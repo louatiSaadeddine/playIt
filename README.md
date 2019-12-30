@@ -1,2 +1,2 @@
 # playIt
-Gaming plateforme: Progressive web app 
+Gaming portal: Progressive web app 
